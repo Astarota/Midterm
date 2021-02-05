@@ -1,0 +1,32 @@
+body{
+	background-color:#F2D7B4;
+}
+.categories{
+	float: left;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  border-radius: 10px;
+}
+.card{
+	float:left;
+	margin-top: 10px;
+	border:solid 3px;
+	margin-right: 10px;
+	margin-left:10px;
+}
+.card-img-top{
+	width: 219px;
+	height: 328.5px;
+}
+.card-body{
+	padding-top:0px;
+	padding-bottom:0px;
+}
+.nav-link{
+	padding-bottom:0px;
+	padding-top:0px;
+}
+
+
